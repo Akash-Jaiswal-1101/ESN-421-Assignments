@@ -56,7 +56,6 @@ if true
     
     % plot
     plot(Z,y2,'Linewidth',2);
-    % plot
-    % plot(x,y3,'Linewidth',2,'Displayname','in-built cubic spline');
+    
     
 end
